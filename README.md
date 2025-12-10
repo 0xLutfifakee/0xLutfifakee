@@ -69,12 +69,17 @@ Fokus saya adalah membuat alat, library, dan framework yang cepat, efektif, dan 
 ### **OneShell File Manager**  
 File manager berbasis **PHP/HTML/JS/CSS** dengan fitur:
 
-- Terminal mini  
-- Editor file  
-- Permission manager  
-- Fast search  
-- Modern UI minimalis  
-
+- 🎨 **Tema Anime Sakura Kawaii** - Desain yang cantik dan menyenangkan
+- 📁 **Manajemen File Lengkap** - Upload, rename, delete, move, copy
+- ✏️ **Editor File Built-in** - Edit file teks langsung di browser
+- 👁️ **Preview File** - Preview gambar dan teks
+- 🔒 **Manajemen Permission** - Ubah permission file/folder
+- 📦 **Upload Multiple** - Upload banyak file sekaligus
+- 🗑️ **Batch Operations** - Operasi batch untuk multiple file
+- ⌨️ **Keyboard Shortcuts** - Navigasi cepat dengan keyboard
+- 📱 **Responsive Design** - Bisa diakses dari mobile
+- 🔍 **Search** - Cari file dengan cepat
+- 📊 **System Info** - Informasi sistem dan disk usage
 ---
 
 ## 🎯 Fokus Saat Ini
