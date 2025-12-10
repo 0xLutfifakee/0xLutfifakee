@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Founder-Padang%20Blackhat-blue?style=for-the-badge">
 </p>
 
-Halo! Saya **Lutfi (0xLutfifakee)** — seorang **developer**, **exploit researcher**, dan **pendiri Padang Blackhat Team**.  
+Halo! Saya **Lutfi (0xLutfifakee)** seorang **developer**, **exploit researcher**, dan **pendiri Padang Blackhat Team**.  
 Saat ini saya aktif dalam:
 
 - Eksploitasi & vulnerability research  
