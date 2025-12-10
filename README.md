@@ -69,32 +69,39 @@ Fokus saya adalah membuat alat, library, dan framework yang cepat, efektif, dan 
 ### **OneShell File Manager**  
 File manager berbasis **PHP/HTML/JS/CSS** dengan fitur:
 
-- 🎨 **Tema Anime Sakura Kawaii** - Desain yang cantik dan menyenangkan
-- 📁 **Manajemen File Lengkap** - Upload, rename, delete, move, copy
-- ✏️ **Editor File Built-in** - Edit file teks langsung di browser
-- 👁️ **Preview File** - Preview gambar dan teks
-- 🔒 **Manajemen Permission** - Ubah permission file/folder
-- 📦 **Upload Multiple** - Upload banyak file sekaligus
-- 🗑️ **Batch Operations** - Operasi batch untuk multiple file
-- ⌨️ **Keyboard Shortcuts** - Navigasi cepat dengan keyboard
-- 📱 **Responsive Design** - Bisa diakses dari mobile
-- 🔍 **Search** - Cari file dengan cepat
-- 📊 **System Info** - Informasi sistem dan disk usage
+- 🎨 Tema Anime Sakura Kawaii  
+- 📁 Manajemen File Lengkap  
+- ✏️ Editor File Built-in  
+- 👁️ Preview File  
+- 🔒 Permission Manager  
+- 📦 Upload Multiple  
+- 🗑️ Batch Operations  
+- ⌨️ Keyboard Shortcuts  
+- 📱 Responsive Layout  
+- 🔍 Fast Search  
+- 📊 System Info  
+
 ---
 
 ## 🎯 Fokus Saat Ini
-
 - Pengembangan **security & automation framework**  
 - Riset **Privilege Escalation** & exploit chaining  
-- Menciptakan tools eksploitasi yang lebih efisien  
+- Membangun tools eksploitasi yang lebih efisien  
 - Library Python baru  
-- Penulisan dokumentasi & struktur repo profesional  
+- Dokumentasi & struktur repository yang lebih profesional  
+
+---
+
+## 🌐 Sosial Media & Website
+
+- **Instagram (Personal)**: https://www.instagram.com/lutfifakee/  
+- **Instagram (Team Padang Blackhat)**: https://www.instagram.com/padangblackhat.id/  
+- **Website Pribadi**: https://lutfifakee.top/
 
 ---
 
 ## 🤝 Kolaborasi
-
-Saya terbuka untuk kolaborasi pada:
+Saya terbuka untuk kolaborasi pada bidang:
 
 - Development (Python / PHP / JS / Lua / C++)  
 - Security tooling  
@@ -107,6 +114,5 @@ Silakan hubungi saya melalui **GitHub Issues** atau repository terkait.
 ---
 
 ## ⭐ Dukungan
-
 Jika proyek saya bermanfaat, berikan **⭐ Star** pada repository saya.  
 Dukungan Anda membantu saya terus mengembangkan project open-source.
