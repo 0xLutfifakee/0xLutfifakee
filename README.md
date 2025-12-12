@@ -1,6 +1,6 @@
 # Tentang Saya
 <p align="center">
-  <img src="https://lutfifakee.top/assets/img/background-lutfifakee.jpg" alt="0xLutfifakee" height="200" />
+  <img src="https://lutfifakee.top/assets/img/background-lutfifakee.jpg" alt="0xLutfifakee" width="900" height="200" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Fullstack-black?style=for-the-badge">
